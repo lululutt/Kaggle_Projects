@@ -1,4 +1,4 @@
-# Some of the projects I undertook to expand my technical knowledge in data analytics & data science
+# Projects I undertook to expand my technical knowledge in data analytics & data science
 ## 1) COVID-19 Data Analytics
 ### An exploratory project conducted to understand the impact of implementing lockdowns on infection rate and several other factors relationship with mortality rates
 ## 2) Diabetes Prediction
