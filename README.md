@@ -5,3 +5,5 @@
 ### A simple classification project to predict an individual possessing diabetes through other health-related factors
 ## 3) Titanic Survival Prediction
 ### A simple classification project to predict an individual surviving the Titanic crash based on certain factors
+## 4) NBA Top 50 Scorers of All Time Analysis
+### A simple exploration project to identify notable members in the Top 50 Scorers of NBA history
